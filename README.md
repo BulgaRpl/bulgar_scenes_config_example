@@ -1,0 +1,2 @@
+# bulgar_scenes_config_example
+bulgar_scenes_config_example
