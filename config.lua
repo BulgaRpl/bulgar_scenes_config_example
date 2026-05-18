@@ -45,7 +45,7 @@ Config.Defaults = {
 Config.Durations = {1,2,4,8,16,24,48,72} -- Scene Times to set
 
 -- Scene Types
-Config.Scene = { -- Rodzaje Scen
+Config.Scene = {
     Types = {
 		"Default", -- Default scene Type, no need to change
 		"Business",
