@@ -27,6 +27,12 @@ Config.SleepTime = 500 -- This is the best value, but if you have a large server
 -- Commands
 Config.CreateSceneCommand = "scene"
 
+-- Scene Limits
+Config.SceneLimit = {
+    Enabled = false, -- false = unlimited
+    MaxPerCharacter = 5 -- Max Character Scenes
+}
+
 -- Distance Settings
 Config.ViewDistance = 15.0 -- Recommended Setting by me 15.0
 Config.EditDistance = 2.0 -- Recommended Setting by me 2.0
@@ -112,4 +118,5 @@ Config.Language = { -- ITS CONFIGURED HERE AFTER U GET THE SCRIPT
     [24] = {text = "EXAMPLE TRANSLATION",},
     [25] = {text = "EXAMPLE TRANSLATION",},
     [26] = {text = "EXAMPLE TRANSLATION",},
+    [27] = {text = "EXAMPLE TRANSLATION",},
 }
